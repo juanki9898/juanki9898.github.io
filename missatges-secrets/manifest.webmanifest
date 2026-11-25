@@ -1,0 +1,29 @@
+{
+  "name": "Missatges secrets",
+  "short_name": "Missatges",
+  "lang": "ca",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFBF2",
+  "theme_color": "#FFD447",
+  "description": "16 màquines per xifrar i desxifrar missatges, de l'escítala a Enigma.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

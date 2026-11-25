@@ -1,0 +1,12 @@
+MISSATGES SECRETS 2.0.0 — versió instal·lable (Android i iPhone)
+
+1. Puja tota aquesta carpeta a qualsevol web amb https (GitHub Pages, Netlify o el servidor de l'escola).
+2. Obre l'adreça al mòbil:
+   - Android (Chrome): menú ⋮ > «Instal·la l'aplicació» o «Afegeix a la pantalla d'inici».
+   - iPhone/iPad (Safari): botó Compartir > «Afegeix a la pantalla d'inici».
+3. Un cop oberta una vegada, funciona sense connexió.
+
+Seguretat: aquesta versió porta una política de seguretat de continguts estricta (només s'executa el
+seu propi codi) i Trusted Types. No envia cap dada enlloc: el progrés es guarda només al dispositiu.
+
+Llicències: codi MIT (LICENSE); textos i il·lustracions CC BY-SA 4.0 (LICENSE-CONTENT.md).
